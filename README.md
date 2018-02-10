@@ -1,5 +1,5 @@
 # YouTube-Playlist-Downloader
 
 # Requirements:
-pytube
-BeautifulSoup (Bs4)
+##pytube
+##BeautifulSoup (Bs4)
